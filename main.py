@@ -1,9 +1,4 @@
-"""
-PDF Text and Table Extraction Tool
-Version: 2.0
-Date: 2025-05-21
-Authors: Perplexity AI Research
-"""
+
 
 import os
 import re
